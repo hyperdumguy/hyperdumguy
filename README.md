@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->  
 
-👋 Hi there, I'm dumguy!
+# 👋 Hi there, I'm dumguy!
 
-🎯 Passionate about building cool things with code
-💻 Currently working on: Blender Camera Effects Addon
-🌱 Learning: Python
-🚀 Goal: I'm not really sure.
+### 🎯 Passionate about building cool things with code
+### 💻 Currently working on: Blender Camera Effects Addon
+### 🌱 Learning: Python
+### 🚀 Goal: I'm not really sure.
