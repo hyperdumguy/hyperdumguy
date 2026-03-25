@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 
 # 👋 Hi there, I'm dumguy!
 
-### 🎯 Passionate about building cool things with code
 ### 💻 Currently working on: Blender Camera Effects Addon
+### 🔭 I’m gonna work on Blender Maze Generator
 ### 🌱 Learning: Python
-### 🚀 Goal: I'm not really sure.
+### 🚀 Goal: Get a good paying job when I'm old enough.
+### ⚡ Fun fact: I plan to learn Python, HTML, CSS, and Javascript!
+### 📫 How to reach me: dumguy919@gmail.com
+
+
