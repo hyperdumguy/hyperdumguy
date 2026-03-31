@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi there, I'm dumguy!
 
-### 💻 Currently working on: Blender Camera Effects Addon
+### 💻 Currently working on: Minecraft but, every minute you get a random enchanted item.
 ### 🔭 I’m gonna work on Blender Maze Generator
 ### 🌱 Learning: Python
 ### 🚀 Goal: Get a good paying job when I'm old enough.
