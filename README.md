@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 ### 🌱 Learning: Python
 ### 🚀 Goal: Get a good paying job when I'm old enough.
 ### ⚡ Fun fact: I plan to learn Python, HTML, CSS, and Javascript!
-### 📫 How to reach me: dumguy919@gmail.com
+### 📫 How to reach me: reach my Tiktok if you need my email!
 
 
