@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 # 👋 Hi there, I'm dumguy!
 
-### 💻 Currently working on: Minecraft but, every minute a gamerule is randomized.
-### 🔭 I’m gonna work on Minecraft Auto Clicker
+### 💻 Currently working on: Minecraft but, every minute you get a completely random item.
+### 🔭 I’m gonna work on Minecraft Auto Mine
 ### 🌱 Learning: Python
 ### 🚀 Goal: Get a good paying job when I'm old enough.
 ### ⚡ Fun fact: I plan to learn Python, HTML, CSS, and Javascript!
