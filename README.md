@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### 🔭 I’m gonna work on Minecraft Auto Mine
 ### 🌱 Learning: Python
 ### 🚀 Goal: Get a good paying job when I'm old enough.
-### ⚡ Fun fact: I plan to learn Python, HTML, CSS, and Javascript!
+### ⚡ Fun fact: I plan to learn multiple coding languages!
 ### 📫 How to reach me: reach my Tiktok if you need my email!
 
 
